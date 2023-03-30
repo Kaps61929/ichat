@@ -1,9 +1,3 @@
 # ichat
-Android chat application
 
-1)An android chat app which facilitates user with one to one chat and
-group chat facility. Users can upload status which could be viewed by other users. The app also as a social logon option via Facebook and
-google.
-
-2)Java was used for making interactive UI backed by Firebase for storing
-and handling data.
+The application is an Android chat app that allows users to exchange messages in one-to-one and group conversations. It has an interactive user interface that was developed using Java programming language. The app's backend functionality is powered by Firebase, which provides features such as real-time database, authentication, and cloud messaging.
